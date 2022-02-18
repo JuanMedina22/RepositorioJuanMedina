@@ -1,0 +1,9 @@
+# PROCESO PARA CREAR UN ENTORNO VIRTUAL EN VISUAL STUDIO CODE
+# 1.    Selecciona la carpeta para trabajar
+# 2.    Ejecuta el comando py -m venv env(nombre del proyecto)
+# 3.    Usa el "cd" para acceder a la carpeta env y luego para entraral script
+# 4.    Usa este comando "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process"
+# 5.    Usa el ".\activate" para incializar el entorno virtual
+# 6.    Crea carpetas en tu entorno en la carpeta script
+# 7.    Para ejecutar tus códigos, usa el py .\(nombre del archivo que tenga el código)
+# 8.    Para apagar el entorno, usa deactivate
